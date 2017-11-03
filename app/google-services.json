@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120609313203",
+    "project_id": "firebase-justpets"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120609313203:android:911f67f0ab513d72",
+        "android_client_info": {
+          "package_name": "com.example.aniket.justpets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120609313203-hgi3n5v9a0sfcce2nvp43m9efgj05q96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aniket.justpets",
+            "certificate_hash": "c5066c5099a782f62c1bb9a0ca0a1613664e6bfe"
+          }
+        },
+        {
+          "client_id": "120609313203-fjkn27m8bja6ngt6dc1dv831m5e9lo6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpvyXDymvWPo_6dO0O0xY_OMJ9HlSX4d0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
